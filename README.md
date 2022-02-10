@@ -5,3 +5,4 @@ Alur pembuatan alikasi login:
 1. Masuk ke halaman login.
 2. memasukan email dan password.
 3. masuk ke halaman utama.
+4. menambahkan aktivitas di aplikasi.
